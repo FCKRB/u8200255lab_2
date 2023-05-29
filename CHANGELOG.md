@@ -1,37 +1,6 @@
 # Release Notes
 
-## [Unreleased](https://github.com/laravel/laravel/compare/v10.2.1...10.x)
-
-## [v10.2.1](https://github.com/laravel/laravel/compare/v10.2.0...v10.2.1) - 2023-05-12
-
-- Add hashed cast to user password by @emargareten in https://github.com/laravel/laravel/pull/6171
-- Bring back pusher cluster config option by @jesseleite in https://github.com/laravel/laravel/pull/6174
-
-## [v10.2.0](https://github.com/laravel/laravel/compare/v10.1.1...v10.2.0) - 2023-05-05
-
-- Update welcome.blade.php by @aymanatmeh in https://github.com/laravel/laravel/pull/6163
-- Sets package.json type to module by @timacdonald in https://github.com/laravel/laravel/pull/6090
-- Add url support for mail config by @chu121su12 in https://github.com/laravel/laravel/pull/6170
-
-## [v10.1.1](https://github.com/laravel/laravel/compare/v10.0.7...v10.1.1) - 2023-04-18
-
-- Fix laravel/framework constraints for Default Service Providers by @Jubeki in https://github.com/laravel/laravel/pull/6160
-
-## [v10.0.7](https://github.com/laravel/laravel/compare/v10.1.0...v10.0.7) - 2023-04-14
-
-- Adds `phpunit/phpunit@10.1` support by @nunomaduro in https://github.com/laravel/laravel/pull/6155
-
-## [v10.1.0](https://github.com/laravel/laravel/compare/v10.0.6...v10.1.0) - 2023-04-15
-
-- Minor skeleton slimming by @taylorotwell in https://github.com/laravel/laravel/pull/6159
-
-## [v10.0.6](https://github.com/laravel/laravel/compare/v10.0.5...v10.0.6) - 2023-04-05
-
-- Add job batching options to Queue configuration file by @AnOlsen in https://github.com/laravel/laravel/pull/6149
-
-## [v10.0.5](https://github.com/laravel/laravel/compare/v10.0.4...v10.0.5) - 2023-03-08
-
-- Add replace_placeholders to log channels by @alanpoulain in https://github.com/laravel/laravel/pull/6139
+## [Unreleased](https://github.com/laravel/laravel/compare/v10.0.4...10.x)
 
 ## [v10.0.4](https://github.com/laravel/laravel/compare/v10.0.3...v10.0.4) - 2023-02-27
 
